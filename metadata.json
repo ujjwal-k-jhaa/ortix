@@ -1,0 +1,6 @@
+{
+  "name": "ORTIX - Seamless Cargo Control & Logistics",
+  "description": "Comprehensive and reliable freight logistics, discounted postage, and order fulfillment platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
